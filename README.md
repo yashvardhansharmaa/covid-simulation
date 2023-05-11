@@ -22,7 +22,8 @@ In Part 2 of my project, I delved into the **SIR (Susceptible-Infectious-Recover
 I utilized **Euler's method**, a widely used numerical simulation algorithm, to approximate the dynamics of the disease. By considering the **SIRD** (Susceptible-Infectious-Recovered-Deceased) model, I extended the original SIR model to include the variable of deaths.
 
 ### Results
-! [covid-simulation.png] (https://github.com/yashvardhansharmaa/covid-simulation/blob/main/covid-simulation.png)
+![](https://github.com/yashvardhansharmaa/covid-simulation/blob/main/covid-simulation.png = 250x250)
+
 The simulation provided visualizations that showcased the trajectory of the COVID-19 outbreak in Lucknow. By adjusting parameters such as the infection rate, recovery rate, and death rate, I observed how these factors influenced the course of the disease and its impact on the population. The simulations proved to be surprisingly accurate, providing realistic representations of the spread of COVID-19.
 
 **Limitations**: The accuracy of the model relied on the availability and accuracy of reported COVID-19 cases, and the SIR model is a simplification of the complex reality.
