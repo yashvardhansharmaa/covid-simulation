@@ -1,6 +1,6 @@
 # Covid Vaccine Distribution Optimization & Simulation
 
-This project was for my CS51 class at my university and it comprises of two parts.
+This project was for my CS51 class at my university. It employed optimization and disease modeling techniques to gain insights into efficient vaccine distribution and the dynamics of infectious disease spread, using COVID-19 as a case study.
 
 ## Part 1: Optimization
 
